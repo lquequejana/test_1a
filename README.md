@@ -31,3 +31,6 @@ This is a test for learning how to create a new repository
 4. Lalá
 5. Alejandro y María Laura
 6. Euforia
+7. Santa García
+8. Grupo Nectar
+9. Daniela Darcourt
