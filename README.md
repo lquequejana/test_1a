@@ -23,3 +23,14 @@ This is a test for learning how to create a new repository
 4. Lo que el viento se llevó
 5. Back to the future
 6. La la land
+
+## Artists
+1. Rio
+2. Eva Ayllón
+3. Gianmarco
+4. Lalá
+5. Alejandro y María Laura
+6. Euforia
+7. Santa García
+8. Grupo Nectar
+9. Daniela Darcourt
